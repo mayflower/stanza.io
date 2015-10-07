@@ -49,7 +49,7 @@
     "uuid": "^2.0.1",
     "wildemitter": "^1.0.1",
     "xhr": "^2.0.1",
-    "xmpp-jid": "^1.0.0"
+    "node-xmpp-jid": "git://github.com/mayflower/JID"
   },
   "devDependencies": {
     "browserify": "^11.0.1",

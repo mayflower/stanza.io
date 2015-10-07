@@ -2,7 +2,7 @@
 
 exports.VERSION = '__STANZAIO_VERSION__';
 
-exports.JID = require('xmpp-jid').JID;
+exports.JID = require('node-xmpp-jid');
 exports.Client = require('./lib/client');
 
 

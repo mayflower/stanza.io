@@ -1,7 +1,7 @@
 var fs = require('fs');
 var jxt = require('jxt').createRegistry();
 var test = require('tape');
-var JID = require('xmpp-jid').JID;
+var JID = require('node-xmpp-jid');
 
 jxt.use(require('jxt-xmpp-types'));
 jxt.use(require('jxt-xmpp'));
